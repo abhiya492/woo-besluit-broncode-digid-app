@@ -96,7 +96,7 @@ main:
     # Build configuratie variabelen
     cfgiOS_BuildTarget            : "Develop"         
     # App configuratie variabelen
-    cfgiOS_AppBundleID            : "SSSSSSSSSSSSSSSSSSSSSSSSSS"
+    cfgiOS_AppBundleID            : "SSSSSSSSSSSSSSSSSSSSSSSSSSSS"
     cfgiOS_AppIcon                : "Resources/Images.xcassets/AppIcons_DEV.appiconset"
     # AppCenter configuratie instellingen
     cfgiOS_AppCenterDistGroupID   : "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS" # DIG - Developers
